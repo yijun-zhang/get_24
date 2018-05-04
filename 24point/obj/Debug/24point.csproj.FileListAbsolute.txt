@@ -1,0 +1,15 @@
+c:\users\31606\source\repos\24point\24point\obj\Debug\24point.csprojResolveAssemblyReference.cache
+c:\users\31606\source\repos\24point\24point\obj\Debug\MainWindow.g.cs
+c:\users\31606\source\repos\24point\24point\obj\Debug\App.g.cs
+c:\users\31606\source\repos\24point\24point\obj\Debug\24point_MarkupCompile.cache
+c:\users\31606\source\repos\24point\24point\obj\Debug\24point_MarkupCompile.lref
+c:\users\31606\source\repos\24point\24point\bin\Debug\24point.exe.config
+c:\users\31606\source\repos\24point\24point\bin\Debug\24point.exe
+c:\users\31606\source\repos\24point\24point\bin\Debug\24point.pdb
+c:\users\31606\source\repos\24point\24point\obj\Debug\MainWindow.baml
+c:\users\31606\source\repos\24point\24point\obj\Debug\24point.g.resources
+c:\users\31606\source\repos\24point\24point\obj\Debug\_24point.Properties.Resources.resources
+c:\users\31606\source\repos\24point\24point\obj\Debug\24point.csproj.GenerateResource.cache
+c:\users\31606\source\repos\24point\24point\obj\Debug\24point.csproj.CoreCompileInputs.cache
+c:\users\31606\source\repos\24point\24point\obj\Debug\24point.exe
+c:\users\31606\source\repos\24point\24point\obj\Debug\24point.pdb
